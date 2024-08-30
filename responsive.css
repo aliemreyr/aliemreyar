@@ -3,6 +3,7 @@
     header {
         background-size: cover; /* Görselin ekranı kaplamaya devam etmesini sağlar */
         background-attachment: scroll; /* Performans sorunlarını önlemek için */
+        padding: 21%;
     }
 }
 
@@ -11,5 +12,6 @@
     header {
         background-size: cover; /* Görselin ekranı kaplamaya devam etmesini sağlar */
         background-attachment: scroll; /* Performans sorunlarını önlemek için */
+        padding: 21%;
     }
 }

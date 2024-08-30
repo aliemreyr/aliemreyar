@@ -1,0 +1,17 @@
+/* responsive.css dosyanızın içine ekleyin */
+
+/* Mobil cihazlar için stil ayarları */
+@media (max-width: 768px) {
+  header {
+    padding: 5% 2%;
+  }
+  /* Diğer stil ayarları */
+}
+
+/* Tablet cihazlar için stil ayarları */
+@media (max-width: 1024px) {
+  header {
+    padding: 8% 4%;
+  }
+  /* Diğer stil ayarları */
+}

@@ -28,4 +28,22 @@ header {
         background-attachment: scroll; /* Performans sorunlarını önlemek için */
         
     }
+    @media (max-width: 1170px) {
+    header {
+        background-size: cover; /* Görselin ekranı kaplamaya devam etmesini sağlar */
+        background-attachment: scroll; /* Performans sorunlarını önlemek için */
+        
+    }
+        @media (max-width: 1080px) {
+    header {
+        background-size: cover; /* Görselin ekranı kaplamaya devam etmesini sağlar */
+        background-attachment: scroll; /* Performans sorunlarını önlemek için */
+        
+    }
+            @media (max-width: 828px) {
+    header {
+        background-size: cover; /* Görselin ekranı kaplamaya devam etmesini sağlar */
+        background-attachment: scroll; /* Performans sorunlarını önlemek için */
+        
+    }
 }

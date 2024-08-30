@@ -1,17 +1,15 @@
-/* responsive.css dosyanızın içine ekleyin */
-
-/* Mobil cihazlar için stil ayarları */
+/* Mobil Cihazlar (768px ve altı) */
 @media (max-width: 768px) {
-  header {
-    padding: 5% 2%;
-  }
-  /* Diğer stil ayarları */
+    header {
+        background-size: cover; /* Görselin ekranı kaplamaya devam etmesini sağlar */
+        background-attachment: scroll; /* Performans sorunlarını önlemek için */
+    }
 }
 
-/* Tablet cihazlar için stil ayarları */
+/* Tablet Cihazlar (1024px ve altı) */
 @media (max-width: 1024px) {
-  header {
-    padding: 8% 4%;
-  }
-  /* Diğer stil ayarları */
+    header {
+        background-size: cover; /* Görselin ekranı kaplamaya devam etmesini sağlar */
+        background-attachment: scroll; /* Performans sorunlarını önlemek için */
+    }
 }
